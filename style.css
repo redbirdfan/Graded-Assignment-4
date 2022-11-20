@@ -1,25 +1,33 @@
+.class {
+    background-color: black;
+}
+
 h1 {
 
     color: darkgreen;
+    margin: 100px;
     text-align: center;
 }
 
-main {
+#main {
     text-emphasis: bold;
     color: chartreuse;
+    text-align: center;
 }
 
-body {
-    background-color: black;
-    margin: 70px;
+
+
+div {
+    text-align: center;
+}
+
+ol {
+    text-align: center;
+    text-decoration: purple;
+    text-size-adjust: 18px;
+}
+
+text {
     padding-left: 200px;
 }
 
-img {
-    align-items: center;
-}
-
-footer {
-    color: darkgreen;
-    text-align: center;
-}
